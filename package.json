@@ -61,9 +61,5 @@
     "@redux-devtools/extension": "^3.3.0",
     "eslint-plugin-react": "^7.35.0"
   },
-  "proxy": {
-  "/auth/google": {
-    "target": "localhost:3000"
-  }
-}
+  "proxy": "https://job-portal-backend-1-dd5h.onrender.com"
 }
